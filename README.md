@@ -1,1 +1,1 @@
-Visor EMR versión 12. Corrección de interactividad de las Comunidades Milperas: sedes en SVG y comunidades en Canvas independiente para que ambas capas reciban clics y muestren sus fichas. Se mantienen filtros, contexto estatal, colores y datos. Publicar los archivos en la raíz del repositorio GitHub Pages.
+Visor EMR versión 12.
